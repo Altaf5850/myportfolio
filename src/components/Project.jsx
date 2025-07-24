@@ -41,12 +41,6 @@ const Project = () => {
       github_link: "https://github.com/Altaf5850/coffeewebsite",
       live_link: "https://apcoffeeday.netlify.app/",
     },
-    // {
-    //   img: project6,
-    //   name: "AI Tool for Desktop",
-    //   github_link: "https://github.com/Altaf5850/desktopaitool",
-    //   live_link: "https://desktopaitoolapp.netlify.app/",
-    // },
   ];
 
   return (
