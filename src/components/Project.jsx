@@ -23,12 +23,12 @@ const Project = () => {
       github_link: "https://github.com/Altaf5850/ptourist-",
       live_link: "https://pathantourist.netlify.app/",
     },
-    {
-      img: project3,
-      name: "Movie Web App",
-      github_link: "https://github.com/Altaf5850/ptubemovies",
-      live_link: "https://ptubemovies.netlify.app/",
-    },
+    // {
+    //   img: project3,
+    //   name: "Movie Web App",
+    //   github_link: "https://github.com/Altaf5850/ptubemovies",
+    //   live_link: "https://ptubemovies.netlify.app/",
+    // },
     {
       img: project4,
       name: "Education Web App",
@@ -41,12 +41,12 @@ const Project = () => {
       github_link: "https://github.com/Altaf5850/coffeewebsite",
       live_link: "https://apcoffeeday.netlify.app/",
     },
-    {
-      img: project6,
-      name: "AI Tool for Desktop",
-      github_link: "https://github.com/Altaf5850/desktopaitool",
-      live_link: "https://desktopaitoolapp.netlify.app/",
-    },
+    // {
+    //   img: project6,
+    //   name: "AI Tool for Desktop",
+    //   github_link: "https://github.com/Altaf5850/desktopaitool",
+    //   live_link: "https://desktopaitoolapp.netlify.app/",
+    // },
   ];
 
   return (

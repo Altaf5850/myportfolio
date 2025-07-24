@@ -44,8 +44,7 @@ const NavBar = () => {
           <Typography
             variant="h6"
             component="div"
-            sx={{ flexGrow: 1 }}
-            style={{ color: "white", fontFamily: "Merienda" }}
+            className="flex-grow text-[#00FF33] font-[Lobster]"
           >
             Pathan
           </Typography>
